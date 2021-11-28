@@ -1,0 +1,14 @@
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.csproj.AssemblyReference.cache
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.AssemblyInfoInputs.cache
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.AssemblyInfo.cs
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.csproj.CoreCompileInputs.cache
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.exe
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.deps.json
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.runtimeconfig.json
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.runtimeconfig.dev.json
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.dll
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\bin\Debug\netcoreapp3.1\Byond - A Journey.pdb
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.dll
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.pdb
+C:\Users\fisch\Desktop\bfisch-c\Byond - A Journey\Byond - A Journey\obj\Debug\netcoreapp3.1\Byond - A Journey.genruntimeconfig.cache

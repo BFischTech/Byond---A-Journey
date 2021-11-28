@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GudyaxGaHBrK0yBB3jhUXwknMHfLdhIcUbyI5uuHU6G0t1yQHIc5wagIhC8rcv/EHeNw39SsOs2US8xtwosvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fisch\\Desktop\\bfisch-c\\Byond - A Journey\\Byond - A Journey\\Byond - A Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fisch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
